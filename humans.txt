@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Milos Pruginic      milos_pruginic@yahoo.com        @mprugini
 
 # THANKS
 
